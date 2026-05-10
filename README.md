@@ -8,7 +8,7 @@ The Rag Frame work lets you:
 *Index Document: Process and break documents embeddings in vector
 Retieval Augmented Generation
 # Why RAG Needed.?
-Retrieval Augmented Generation (RAG) is needed because of overcome the limitations of Large Language Models(LLM), such as knowledge, hallucinations, and inability to accesss private data.
+Retrieval Augmented Generation (RAG) is needed because of overcome the limitations of Large Language Models(LLM), such as knowledge, hallucinations, and inability to accesss private data. RAG connects LLM's to provide specific knowledge, domain specific, and up-to date specific information.
 
 ## RAG Database Detail:
 # Stack
