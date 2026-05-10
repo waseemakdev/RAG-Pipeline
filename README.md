@@ -24,6 +24,7 @@ Interfaces (interface/):
     Abstract base classes define contracts for all components (e.g. BaseDatastore, BaseIndexer, BaseRetriever, BaseResponseGenerator, and BasaeEvaluator), making it easy to extend or swap implementations.
 
 # Stack
+Slack
 
 # Installation:
 
