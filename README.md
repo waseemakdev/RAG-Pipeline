@@ -15,5 +15,13 @@ Retrieval Augmented Generation (RAG) is needed because of overcome the limitatio
 ## Architecture
 Pipeline
 Orchestrates the process using:
+    Datastore: Manages embeddings and vector storage.
+    Indexer: Processes documents and creates data chunks. Two versions are available--a basic PDF indexer and one using the Docling package.
+    Retriever: Searches the datastore to pull relevant document segments.
+    ResponseGenerator: Generates answers by calling the AI service.
+    Evaluator: Compares the AI response to expected answers and explains the outcome.
+Interfaces (interface/):
+    Abstract base classes define contracts for all components (e.g. BaseDatastore, BaseIndexer, BaseRetriever, BaseResponseGenerator, and BasaeEvaluator), making it easy to extend or swap implementations.
+    
 
 # Stack
