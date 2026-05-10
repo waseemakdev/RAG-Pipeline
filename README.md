@@ -28,7 +28,7 @@ Interfaces (interface/):
 Python
 Next Js
 
-Libraries:
+Libraries
 
 
 # Installation:
