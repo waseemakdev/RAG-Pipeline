@@ -6,7 +6,8 @@ This Project is beginner friendly tutorial project for building a Retrieval Augm
 
 The Rag Frame work lets you:
 *Index Document: Process and break documents embeddings in vector
-
+Retieval Augmented Generation
 Why RAG Needed.!
+
 ## RAG Database Detail:
 # Stack
