@@ -25,7 +25,9 @@ Interfaces (interface/):
 
 # Stack
 
-Stuck
+Python
+Next Js
+
 
 # Installation:
 
