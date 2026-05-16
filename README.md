@@ -30,6 +30,7 @@ Next Js
 
 Libraries:
 Data Pipeline and details.
+Docker
 
 e
 
