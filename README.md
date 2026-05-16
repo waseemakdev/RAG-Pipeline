@@ -28,7 +28,8 @@ Interfaces (interface/):
 Python
 Next Js
 
-Libraries
+Libraries:
+Data Pipeline and details.
 
 e
 
